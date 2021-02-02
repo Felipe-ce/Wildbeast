@@ -1,0 +1,21 @@
+img{
+  /*  Limitando o tamanho da imagem para 
+      melhorar avizualização
+  */
+  max-width: 100px;
+}
+
+body, p, h1, ul, li, blockquote{
+  padding: 0;
+  margin: 0;
+}
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+
+}
+body{
+  fon
+}
