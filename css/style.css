@@ -3,6 +3,7 @@ img {
       melhorar avizualização
   */
   max-width: 100%;
+  border-radius: 5PX;
 }
 
 body,
@@ -123,7 +124,10 @@ body {
   font-style: italic;
 }
 
-
+main p:first-of-type{
+  color: red;
+  grid-column: span 2;
+}
 
 
 
