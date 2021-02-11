@@ -3,6 +3,7 @@ img {
       melhorar avizualização
   */
   max-width: 100%;
+  width: 100%;
   border-radius: 5px;
   display: block;
 }
